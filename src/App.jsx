@@ -1,3 +1,4 @@
+import "./index.css";
 import { useState, useEffect } from "react";
 import {
   LayoutDashboard, Users, FolderKanban, CheckSquare, CreditCard,
